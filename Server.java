@@ -49,4 +49,20 @@ public class Server{
         Server server = new Server(8080);
         server.run();
     }
+
+    public void statusCode(){
+
+    }
+
+    public void statusMessage(){
+
+    }
+
+    public void requestHeader(){
+
+    }
+
+    public void responseHeader(){
+        
+    }
 }
